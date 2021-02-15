@@ -1,3 +1,6 @@
+Link:https://notesclip-fb-app.herokuapp.com/
+GitHub:https://github.com/kkjaseem/notesclip-fb-app
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
